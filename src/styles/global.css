@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --background: #f8f5f2;
+  --primary: #b388eb;
+  --text: #1f1f1f;
+  --soft-text: #666;
+  --card: #ffffff;
+}
+
+body {
+  background: var(--background);
+  font-family: 'Poppins', sans-serif;
+  color: var(--text);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+.container {
+  width: 90%;
+  max-width: 1300px;
+  margin: auto;
+}
