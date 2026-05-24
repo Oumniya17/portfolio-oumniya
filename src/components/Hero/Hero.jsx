@@ -105,7 +105,7 @@ const Hero = () => {
           <div className="hero-image">
 
             <img
-              src="/src/assets/oumniya.jpeg"
+              src="/oumniya.jpeg"
               alt="Oumniya"
             />
 

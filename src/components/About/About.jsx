@@ -26,7 +26,7 @@ const About = () => {
           <div className="about-image">
 
             <img
-              src="/src/assets/about-cartoon.png"
+              src="/about-cartoon.png"
               alt="Oumniya"
             />
 
