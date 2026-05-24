@@ -1,65 +1,84 @@
 <div align="center">
 
-# ✦ oumniya.dev ✦
+<br />
 
-*turning ideas into pixels, one component at a time*
+```
+✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
+```
 
-![React](https://img.shields.io/badge/React-19-b388eb?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-8-b388eb?style=for-the-badge&logo=vite&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Modern-b388eb?style=for-the-badge&logo=css3&logoColor=white)
-![Tests](https://img.shields.io/badge/Tests-22%20passing-b388eb?style=for-the-badge)
+# &lt;Oum.dev/&gt;
+
+### *turning ideas into pixels, one component at a time* ✿
+
+<br />
+
+![React](https://img.shields.io/badge/React_19-b388eb?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite_8-b388eb?style=for-the-badge&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-b388eb?style=for-the-badge&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-b388eb?style=for-the-badge&logo=vercel&logoColor=white)
+![Tests](https://img.shields.io/badge/22_tests_passing-b388eb?style=for-the-badge)
+
+<br />
+
+> *"Discipline today, freedom tomorrow..."*
+
+<br />
+
+**[✦ Live Demo ✦](https://portfolio-oumniya.vercel.app/)**
+
+<br />
+
+```
+✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
+```
 
 </div>
 
 ---
 
-```
-✿ Welcome to my little corner of the internet ✿
-```
-
-> *"Discipline today, freedom tomorrow..."*
-
----
+<br />
 
 ## ✧ What is this?
 
 A **personal portfolio** crafted with React, a lot of purple and even more passion.
-Built to show who I am, what I create and what drives me every day.
-
 No templates. No shortcuts. Just code, creativity and coffee. ☕
 
----
+Built to show who I am, what I create and what drives me every single day.
 
-## 🔮 Built with
+<br />
+
+## 🔮 Stack
 
 ```js
-const stack = {
-  framework : "React 19",
-  bundler   : "Vite",
-  styling   : "CSS3 + Custom Properties",
-  icons     : "React Icons",
-  testing   : "Vitest + React Testing Library",
-  deploy    : "Render",
-  love      : "∞"
+const oumniya = {
+  framework  : "React 19",
+  bundler    : "Vite 8",
+  styling    : "CSS3 + Custom Properties",
+  icons      : "React Icons",
+  testing    : "Vitest + React Testing Library",
+  deploy     : "Vercel",
+  love       : "∞"
 }
 ```
 
----
+<br />
 
 ## 🌿 Sections
 
 ```
-┌─────────────────────────────────────┐
-│  ✦  Hero        →  First impression │
-│  ♡  About       →  Who I am         │
-│  ⚡  Skills      →  What I know      │
-│  ✿  Projects    →  What I've built  │
-│  ◈  Experience  →  Where I've been  │
-│  ✉  Contact     →  Let's talk       │
-└─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│                                          │
+│   ✦  Hero        →  First impression    │
+│   ♡  About       →  Who I am            │
+│   ⚡  Skills      →  What I know         │
+│   ✿  Projects    →  What I've built     │
+│   ◈  Experience  →  Where I've been     │
+│   ✉  Contact     →  Let's talk          │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
----
+<br />
 
 ## 🚀 Run locally
 
@@ -83,7 +102,7 @@ npm run test
 npm run build
 ```
 
----
+<br />
 
 ## 🧪 Tests
 
@@ -93,17 +112,17 @@ npm run build
 npm run test
 ```
 
-| Component | Tests |
-|-----------|-------|
-| Navbar | 3 ✓ |
-| Hero | 3 ✓ |
-| About | 3 ✓ |
-| Skills | 2 ✓ |
-| Projects | 3 ✓ |
-| Experience | 4 ✓ |
-| Contact | 4 ✓ |
+| Component | Tests | Status |
+|-----------|-------|--------|
+| Navbar | 3 | ✓ |
+| Hero | 3 | ✓ |
+| About | 3 | ✓ |
+| Skills | 2 | ✓ |
+| Projects | 3 | ✓ |
+| Experience | 4 | ✓ |
+| Contact | 4 | ✓ |
 
----
+<br />
 
 ## 📁 Structure
 
@@ -123,15 +142,13 @@ src/
 └── 🧪 tests/
 ```
 
+<br />
+
 ---
 
-## 🌐 Live
-
-> ✦ **[oumniya-portfolio.onrender.com](https://oumniya-portfolio.onrender.com)** ✦
-
-
-
 <div align="center">
+
+<br />
 
 made with ♡ by **Oumniya Chahidi**
 
@@ -139,5 +156,20 @@ made with ♡ by **Oumniya Chahidi**
   <img src="https://github.com/user-attachments/assets/d549c019-35bb-4af8-8e61-8d6885c6cd9b" width="200">
 </p>
 
+<br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-b388eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oumniya17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b388eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumniya-chahidi)
+[![Email](https://img.shields.io/badge/Email-b388eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumniya.chah@gmail.com)
+
+<br />
+
+```
+✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
+```
+
 </div>
+```
+
+
 
