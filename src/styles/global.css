@@ -43,3 +43,151 @@ img {
   max-width: 1300px;
   margin: auto;
 }
+
+/* DARK MODE */
+
+.dark-theme {
+  background: #0e1021;
+  color: #f0f0f0;
+}
+
+/* NAVBAR */
+.dark-theme .navbar {
+  background: #0e1021;
+}
+
+.dark-theme .logo,
+.dark-theme .nav-links a,
+.dark-theme .theme-btn {
+  color: white;
+}
+
+.dark-theme .talk-btn {
+  border-color: #b388eb;
+  color: white;
+}
+
+/* HERO */
+.dark-theme .hero-tag {
+  background: #1e1e3a;
+  color: #d4a8ff;
+}
+
+.dark-theme .hero-title {
+  color: white;
+}
+
+.dark-theme .hero-description {
+  color: #b9b9c9;
+}
+
+.dark-theme .secondary-btn {
+  border-color: #b388eb;
+  color: white;
+}
+
+.dark-theme .availability-card {
+  background: #1a1c2e;
+  color: white;
+}
+
+/* ABOUT */
+.dark-theme .about {
+  border-top-color: #2a2a3a;
+}
+
+.dark-theme .about-tag {
+  color: #d4a8ff;
+}
+
+.dark-theme .about-title {
+  color: white;
+}
+
+.dark-theme .about-content p {
+  color: #b9b9c9;
+}
+
+.dark-theme .about-card {
+  background: #1a1c2e;
+}
+
+.dark-theme .about-card p {
+  color: #d0d0e0;
+}
+
+.dark-theme .about-btn {
+  border-color: #b388eb;
+  color: white;
+}
+
+/* SKILLS */
+.dark-theme .skill-card {
+  background: #1a1c2e;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+}
+
+.dark-theme .skill-card span {
+  color: #d0d0e0;
+}
+
+/* PROJECTS */
+.dark-theme .projects-title {
+  color: white;
+}
+
+.dark-theme .project-card {
+  background: #1a1c2e;
+}
+
+.dark-theme .project-content h3 {
+  color: white;
+}
+
+.dark-theme .project-content p {
+  color: #b9b9c9;
+}
+
+.dark-theme .project-links a:last-child {
+  border-color: #b388eb;
+  color: white;
+}
+
+/* EXPERIENCE */
+.dark-theme .timeline::before {
+  background: #3a2a5a;
+}
+
+.dark-theme .timeline-content h3 {
+  color: white;
+}
+
+.dark-theme .timeline-content p {
+  color: #b9b9c9;
+}
+
+.dark-theme .experience-btn {
+  border-color: #b388eb;
+  color: white;
+}
+
+.dark-theme .polaroid-card {
+  background: #1a1c2e;
+}
+
+.dark-theme .drive-card h3 {
+  color: white;
+}
+
+.dark-theme .drive-card p {
+  color: #b9b9c9;
+}
+
+.dark-theme .experience-right-tag {
+  color: #d4a8ff;
+}
+
+/* FOOTER */
+.dark-theme .scroll-top {
+  background: #1a1c2e;
+}
